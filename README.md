@@ -1,0 +1,1 @@
+# spinup-ec2-instances-with-snapshots-ebs-attached
